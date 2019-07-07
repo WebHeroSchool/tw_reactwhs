@@ -1,0 +1,21 @@
+{
+  "name": "reactwhs",
+  "version": "1.0.0",
+  "description": "Финальный проект по React",
+  "main": "index.js",
+  "scripts": {
+    "hello": "echo \"hello\"",
+    "build": "mkdir build",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/tw_reactwhs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/tw_reactwhs/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/tw_reactwhs#readme"
+}
